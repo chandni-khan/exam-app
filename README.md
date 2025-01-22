@@ -14,7 +14,7 @@ Login/Register: Securely register and log in to access your exams and results.
 
 For Admins
 
-You have to use emailId appgenix@gmail.com
+You have to use emailId admin@gmail.com
 
 Create Questions: Easily create and manage questions with multiple options and correct answers.
 
@@ -44,7 +44,7 @@ Authentication
 
 JWT (JSON Web Tokens): For secure authentication and role-based access control.
 
-Setup Instructions
+
 
 Prerequisites
 
