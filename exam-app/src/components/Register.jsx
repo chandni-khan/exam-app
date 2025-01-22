@@ -57,9 +57,9 @@ function Register() {
   return (
     <div className="register-container">
       <div className="app-info">
-        <h1 className="app-title">Welcome to APPGENIX QuizMaster!</h1>
+        <h1 className="app-title">Welcome to  QuizMaster!</h1>
         <p className="app-description">
-          APPGENIX QuizMaster is an interactive platform for multiple-choice
+           QuizMaster is an interactive platform for multiple-choice
           question exams. Whether you are a student aiming to sharpen your
           knowledge or an admin creating quizzes for others, QuizMaster provides
           a seamless and engaging experience.

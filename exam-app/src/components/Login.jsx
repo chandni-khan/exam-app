@@ -35,9 +35,9 @@ function Login() {
   return (
     <div className="login-container">
       <div className="app-info">
-        <h1 className="app-title">Welcome Back to APPGENIX QuizMaster!</h1>
+        <h1 className="app-title">Welcome Back to  QuizMaster!</h1>
         <p className="app-description">
-          APPGENIX QuizMaster is your go-to platform for interactive
+           QuizMaster is your go-to platform for interactive
           multiple-choice quizzes.
           <strong>
             Don't have an account yet? Register now to get started!

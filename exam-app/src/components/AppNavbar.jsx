@@ -23,7 +23,7 @@ export default function AppNavbar() {
     <Navbar bg="dark" variant="dark" expand="lg">
       <Container>
         <Navbar.Brand as={Link} to="/exam">
-          APPGENIX Exam App
+           Exam App
         </Navbar.Brand>
         <Nav className="ms-auto">
           <Nav.Link as={Link} to="/exam">
